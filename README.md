@@ -43,7 +43,7 @@ $$
 
 - visualization: graphing tool for signal, pnl, and heatmap
 
-(Detailed Introduction is provided in folder's README)
+(Detailed Introduction is provided in each folder)
 
 ### Example Workflow
  
