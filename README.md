@@ -21,7 +21,7 @@ $$
 - **AU**: The sum of price increases over the past 14 days.
 - **AD**: The sum of price decreases (used as positive values) over the past 14 days.
 
-Once the initial calculation is completed, the **AU** and **AD** values can be updated daily using the average method (where \( p \) is the closing price):
+Once the initial calculation is completed, the **AU** and **AD** values can be updated daily using the average method (where p is the closing price):
 
 $$
 AU_t = AU_{t-1} + \frac{AU_{t-1}}{14} + \max(p_t - p_{t-1}, 0)
