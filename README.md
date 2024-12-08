@@ -1,10 +1,12 @@
 # Low-Frequency-RSI-Trading
 
-The Relative Strength Index (RSI), developed by Welles Wilder, is a popular momentum indicator that scales values from 0 to 100 to identify overbought and oversold conditions.
+
+### Goal:
+The goal of this project is to build a backtesting framework to test the performance of alpha factors on individual stocks. I use Relative Strength Index (RSI) as the indicator, focusing on its ability to generate trading signals and assess stock performance. The framework will evaluate how RSI-based signals impact returns and risk in stock trading.
 
 ### Definition:
 
-The Relative Strength Index (RSI) is defined as:
+The Relative Strength Index (RSI), developed by Welles Wilder, is a popular momentum indicator that scales values from 0 to 100 to identify overbought and oversold conditions.
 
 $$
 RSI = 100 - \frac{100}{1+RS} = 100 \cdot \frac{RS}{1+RS}
