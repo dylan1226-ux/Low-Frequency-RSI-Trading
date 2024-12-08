@@ -1,4 +1,5 @@
 # Low-Frequency-RSI-Trading
 
 
-![Alt text](images/img.png)
+
+<img src="images/img.png" alt="Alt text" width="700"/>
