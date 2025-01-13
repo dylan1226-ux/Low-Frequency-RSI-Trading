@@ -39,7 +39,7 @@ $$
 
 - backtest: a comprehensive strategy to simulate trading with asset allocation and specific trading rules
 
-- data: data preprocessing (please use your own data)
+- data: data preprocessing (please use your data)
 
 - visualization: graphing tool for signal, pnl, and heatmap
 
